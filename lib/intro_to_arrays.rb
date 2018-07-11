@@ -1,1 +1,3 @@
-instantiate_new_array = array.new
+def array1(array)
+[]
+end
