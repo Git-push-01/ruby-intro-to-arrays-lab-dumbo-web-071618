@@ -8,5 +8,5 @@ def first_element(array)
   array.first
 end
 def third_element(array)
-  array.at(3)
+  array.at(2)
 end
