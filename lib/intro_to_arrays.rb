@@ -1,3 +1,1 @@
-array = []
-array
-array.length
+instantiate_new_array = array.new 
