@@ -11,5 +11,5 @@ def third_element(array)
   array.at(2)
 end
 def last_element(array)
-  [-1]
+  array.last
 end
